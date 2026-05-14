@@ -1,4 +1,4 @@
-# 
+# instant Bitwarden for macOS Module | device-lock + firewall-protection offers the most advanced Bitwarden for macOS module, with device-lock and firewall-protection. Ideal for
 
 
 
